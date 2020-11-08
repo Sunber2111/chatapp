@@ -1,0 +1,9 @@
+{
+  "ConnectionString": {
+    "default": "mongodb+srv://sunber123:sunber123@devconnector.a3tp4.mongodb.net/gk_cnm?retryWrites=true&w=majority"
+  },
+  "keys": { "secretOrKey": "chao ca nahyeu cua kem" },
+  "cloud_name": "revanstack",
+  "api_key": "399842956532258",
+  "api_secret": "xgr99sb2fJtMzRQHnA7EC1vLPNo"
+}
